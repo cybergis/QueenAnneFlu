@@ -1,0 +1,184 @@
+schoolID,CODE,NAME,ABB_NAME,X,Y
+1,College or University,Cornish College of the Arts,Cornish College,549874.0518,5274074.67
+2,Elementary,St. Paul School,St. Paul,555512.6343,5262151.157
+3,Elementary,Amazing Grace Christian School,Amazing Grace,555738.5532,5262203.525
+4,Elementary,St. Anne School,St. Anne,548220.3227,5275499.85
+5,Elementary,Lowell Elementary School,Lowell,551216.9704,5274783.294
+6,Elementary,Madrona K-8 School,Madrona,553293.1099,5273447.086
+7,Elementary,St. John Catholic School,St. John,548256.6761,5281647.172
+8,High,Seattle Academy - Upper School,Seattle Academy,551377.5698,5273482.589
+9,Elementary,St. Matthew School,St. Matthew,551460.4867,5285599.567
+10,Alternative,The Center High School,The Center,548776.2718,5274426.979
+11,Alternative,Queen Anne Elementary School,Queen Anne,548902.5576,5276267.949
+12,Elementary,Waldorf School - Kinderhaus Campus,Waldorf Kindergarten,549567.1497,5279258.575
+13,Elementary,University Child Development School,University Child Dev,551195.7558,5279476.561
+14,Elementary,Assumption St. Bridget School,Assumption,553081.3127,5280411.074
+15,Elementary,Westside School,Westside,547124.9661,5261985.761
+16,College or University,City University-Bellevue,City University,549270.1576,5273979.061
+17,Elementary,Stevens Elementary School,Stevens,551984.0381,5275624.188
+18,Elementary,Olympic Hills Elementary School,Olympic Hills,551980.4056,5285863.522
+19,Elementary,Broadview-Thomson K-8 School,Broadview-Thomson,548419.3318,5285902.424
+20,Elementary,Whittier Elementary School,Whittier,547050.7604,5281324.008
+21,Alternative,Licton Springs K-8 School,Licton Springs,549485.9858,5282623.912
+22,Elementary,Leschi Elementary School,Leschi,553232.4084,5272320.003
+23,High,Lakeside High School,Lakeside High,550479.9608,5286811.402
+24,Junior High/Middle,Seattle Academy - Middle School,Seattle Academy,551663.8285,5273622.31
+25,Alternative,F.A. McDonald International Elementary School,McDonald Intl,550554.0781,5279651.479
+26,Elementary,Greenwood Elementary School,Greenwood,548025.3935,5281742.176
+27,Elementary,Bright Water School - Waldorf,Bright Water,551040.4467,5275706.802
+28,Junior High/Middle,Asa Mercer Middle School,Asa Mercer,551746.1619,5268086.465
+29,Elementary,McGilvra Elementary School,McGilvra,553724.4041,5275878.524
+30,Alternative,Salmon Bay K-8 School,Salmon Bay,546498.7639,5280574.801
+31,High,Edward S. Ingraham High School,Ingraham,549649.9296,5286085.158
+32,Alternative,Pathfinder K-8 School,Pathfinder,548299.5344,5267895.474
+33,Elementary,John Hay Elementary School,John Hay,548696.716,5275707.097
+34,Junior High/Middle,Morningside Academy,Morningside,549679.1526,5274274.334
+35,Junior High/Middle,Washington Middle School,Washington,552309.195,5271850.872
+36,Other Facility,John Stanford Center (Administration),John Stanford Center,550279.6791,5269889.088
+37,College or University,Art Institute of Seattle,Art Institute,548909.879,5273414.483
+38,Elementary,Green Lake Elementary School,Green Lake,550372.5305,5280547.416
+39,Elementary,Montlake Elementary School,Montlake,552261.3044,5276593.976
+40,Alternative,Skills Center High School,Skills Center,550317.7936,5270051.404
+41,High,Chief Sealth International High School,Chief Sealth,547708.0503,5264135.185
+42,Junior High/Middle,David T. Denny International Middle School,David T. Denny Intl,547716.2149,5264408.828
+43,Elementary,Seattle Country Day School,Seattle Country Day,548790.9991,5276897
+44,Elementary,Lafayette Elementary School,Lafayette,546096.747,5269791.396
+45,Junior High/Middle,Seattle Girls School,Seattle Girls,552842.123,5272031.355
+46,Elementary,Wedgewood Elementary School,Wedgewood,552744.8029,5282146.398
+47,High,West Seattle High School,West Seattle,546229.6011,5269467.456
+48,Elementary,Alki Elementary School,Alki,544533.1783,5269472.832
+49,Elementary,The Valley School,Valley,553126.7386,5274519.325
+50,Elementary,John Muir Elementary School-Seattle,John Muir,553354.4709,5269113.434
+51,Elementary,William Cullen Bryant Elementary School,WC Bryant,553147.3748,5280034.346
+52,K-12,Bush School,Bush,553447.8125,5274635.03
+53,Elementary,Our Lady of the Lake School,Our Lady of the Lake,553326.5352,5282488.597
+54,Elementary,Makkah Islamic School,Makkah Islamic,553687.1485,5266471.209
+55,Elementary,Wing Luke Elementary School,Wing Luke,553824.7276,5264393.817
+56,Elementary,Arbor Heights Elementary School,Arbor Heights,546867.4322,5261995.597
+57,Elementary,Fairmount Park Elementary School,Fairmount Park,546633.3679,5266758.67
+58,Elementary,B.F. Day Elementary School,B.F. Day,548880.8999,5278134.333
+59,Alternative,Ida B. Wells School of Social Justice,Ida B. Wells,551818.8894,5278052.286
+60,College or University,University of Washington-HUB,UW-HUB,552164.7622,5278218.375
+61,Elementary,Lawton Elementary School,Lawton,545787.7997,5278312.904
+62,Alternative,Middle College High School at Northgate Mall,Middle College at Northgate,550611.7335,5284064.42
+63,Elementary,John Rogers Elementary School,John Rogers,553666.2416,5283991.452
+64,Elementary,Hawthorne Elementary School,Hawthorne,553903.0297,5268303.1
+65,Elementary,Holy Rosary School,Holy Rosary,546258.661,5268183.495
+66,Elementary,Christ the King School,Christ the King,548489.8323,5284706.471
+67,Elementary,St. Edward School,St. Edward,554240.4003,5266611.717
+68,Elementary,Hope Lutheran School,Hope Lutheran,546256.6751,5267961.233
+69,Elementary,The Meridian School,Meridian,550188.7822,5279113.576
+70,Elementary,South Shore K-8 School,South Shore,554803.5035,5263643.723
+71,Elementary,St. Benedict School,St. Benedict,549792.4427,5279159.745
+72,Elementary,KapKa Cooperative School,KapKa Coop,548924.2297,5279249.958
+73,Elementary,Maple Elementary School,Maple,551239.5387,5267414.453
+74,Elementary,Villa Academy School,Villa Academy,554548.1993,5279181.502
+75,Elementary,Graham Hill Elementary School,Graham Hill,555039.9766,5266077.884
+76,College or University,Washington Academy of Languages,WA Academy of Languages,548302.2475,5277574.283
+77,Alternative,Grover Cleveland STEM High School,Grover Cleveland,551620.3516,5266770.411
+78,Elementary,West Woodland Elementary School,West Woodland,547876.4582,5279839.899
+79,Alternative,Louisa Boren STEM K-8 School,Louisa Boren,547995.0918,5266330.56
+80,College or University,South Seattle College,South Seattle College,548826.4411,5266325.868
+81,Elementary,Adams Elementary School,Adams,545630.4626,5280191.019
+82,Elementary,Giddens School,Giddens,552170.1157,5271734.489
+83,Elementary,Sand Point School,Sand Point,555327.5066,5280292.208
+84,Elementary,Sand Point Elementary School,Sand Point,555327.8112,5280292.216
+85,Elementary,Brighton School,Brighton,554415.0996,5265622.324
+86,Elementary,West Seattle Elementary School,West Seattle,547147.0711,5265561.481
+87,College or University,South Seattle College-Georgetown Campus,SSC Georgetown,550805.3382,5265574.611
+88,Elementary,St. Joseph School,St. Joseph,551971.5732,5274906.911
+89,Elementary,View Ridge Elementary School,View Ridge,554325.9606,5281059.341
+90,College or University,Cornish College Kerry Hall,Cornish College Kerry Hall,550863.1569,5274878.211
+91,Junior High/Middle,Billings Middle School,Billings,550644.83,5281053.749
+92,Elementary,Concord International Elementary School,Concord,550837.1123,5263574.728
+93,High,Holy Names Academy,Holy Names,552269.9488,5275016.797
+94,Elementary,Northwest Montessori - West Seattle,Northwest Montessori,546947.0382,5264923.993
+95,Elementary,Northwest Montessori - Wedgwood,Northwest Montessori,552511.4287,5281220.204
+96,Elementary,Decatur Elementary School,Decatur,553822.3649,5281603.009
+97,Alternative,Thornton Creek Elementary School,Thornton Creek,553822.3564,5281603.313
+98,High,Waldorf High School Campus,Waldorf High,555162.3807,5281862.264
+99,Elementary,Daniel Bagley Elementary School,Daniel Bagley,549347.2242,5281639.414
+100,High,University Prep Academy,U Prep,552502.4006,5281747.59
+101,High,O Dea High School,O Dea,550746.3822,5272926.251
+102,Elementary,Fairview Christian School,Fairview Christian,551145.2507,5281588.44
+103,Elementary,St. Catherine of Siena Parish School,St. Catherine,551033.7737,5282138.552
+104,High,Rainier Beach High School,Rainier Beach,555265.2733,5263666.135
+105,Elementary,St. Therese Catholic Academy,St. Therese,553509.4127,5273331.845
+106,Elementary,Spruce Street School,Spruce Street,549947.2288,5273932.853
+107,Junior High/Middle,Whitman Middle School,Whitman,546699.422,5282783.957
+108,Elementary,Roxhill Elementary School,Roxhill,547392.6929,5262893.682
+109,Elementary,Sacajawea Elementary School,Sacajawea,551948.2625,5283015.913
+110,Elementary,Highland Park Elementary School,Highland Park,549046.4997,5263743.298
+111,Alternative,Cedar Park Elementary School,Cedar Park,553427.9228,5286072.161
+112,Elementary,Bertschi School,Bertschi,551051.3324,5276436.837
+113,High,Seattle Preparatory School,Seattle Prep,551262.9787,5276628.416
+114,College or University,Seattle Pacific University,Seattle Pacific U,547864.1359,5277555.875
+115,Elementary,Pacific Crest School,Pacific Crest,547737.027,5278727.366
+116,College or University,Seattle University,Seattle U,551322.4285,5273253.648
+117,Elementary,Bailey Gatzert Elementary School,Bailey Gatzert,551444.7583,5272197.55
+118,Elementary,Seattle Hebrew Academy,Seattle Hebrew,551989.0609,5275901.101
+119,Elementary,Beacon Hill International Elementary School,Beacon Hill,551497.9485,5270455.815
+120,Elementary,Catharine Blaine K-8 School,Catharine Blaine,545035.5415,5276771.959
+121,Elementary,Dunlap Elementary School,Dunlap,554588.432,5263758.695
+122,Elementary,Rainier View Elementary School-Seattle,Rainier View,555494.1338,5260866.471
+123,Elementary,St. Alphonsus School,St. Alphonsus,546871.3283,5279970.86
+124,College or University,Seattle Central College,Seattle Central,550997.3498,5273944.556
+125,Alternative,Cascade Parent Partnership Program,Cascade PPP,548170.2863,5277185.829
+126,High,Franklin High School,Franklin,553121.2279,5269405.575
+127,Elementary,Our Lady of Fatima Parish School,Our Lady of Fatima,545125.5652,5277379.415
+128,Alternative,Interagency Academy,Interagency Academy,553630.4624,5267441.986
+129,Elementary,Genesee Hill Elementary School,Genesee Hill,545365.8399,5268184.627
+130,Elementary,Olympic View Elementary School-Seattle,Olympic View,550925.3483,5282981.375
+131,Alternative,Orca K-8 School,Orca,554473.483,5267071.86
+132,Elementary,Martin Luther King Jr. Elementary School,MLK Jr.,554415.1004,5265622.472
+133,Elementary,The Perkins School,Perkins,551172.5976,5282546.032
+134,High,Roosevelt High School,Roosevelt,551587.3193,5280630.933
+135,Alternative,John Stanford International Elementary School at Latona,John Stanford Intl,550755.2551,5278458.288
+136,Elementary,Holy Family Bilingual Catholic School,Holy Family,548225.1933,5262815.256
+137,Elementary,Van Asselt Elementary School,Van Asselt,553006.0465,5265141.394
+138,Junior High/Middle,Alexander Hamilton International Middle School,Alexander Hamilton Intl,549706.25,5278441.309
+139,Elementary,Captain Stephen E. Sanislo Elementary School,Sanislo,548265.1839,5265331.054
+140,Elementary,Frantz H. Coe Elementary School,Frantz Coe,547651.2337,5276541.26
+141,Junior High/Middle,Edmonds S. Meany Middle School,Edmond S. Meany,552199.1344,5274477.723
+142,Elementary,Northwest Montessori - Woodland Park,Northwest Montessori,548526.5105,5279247.621
+143,Junior High/Middle,Nathan Eckstein Middle School,Nathan Eckstein,552921.1179,5281263.112
+144,Junior High/Middle,Robert Eagle Staff Middle School,Robert Eagle Staff,549485.9858,5282623.912
+145,Junior High/Middle,Lakeside Middle School,Lakeside Middle,550415.157,5286286.51
+146,Alternative,Seattle World School,Seattle World,551907.8817,5273560.887
+147,Junior High/Middle,Aki Kurose Middle School,Aki Kurose,554028.7392,5266127.523
+148,College or University,University of Washington,UW,552165.0582,5278218.688
+149,Alternative,Middle College High School at Seattle University,Middle College at Seattle U,551322.4925,5273253.554
+150,Elementary,North Beach Elementary School,North Beach,545988.5304,5282569.197
+151,Elementary,Emerson Elementary School,Emerson,555818.8744,5262643.183
+152,College or University,North Seattle College,North Seattle College,550072.0348,5283105.23
+153,Alternative,Cascadia Elementary School,Cascadia,549563.5518,5278714.072
+154,Elementary,Captain George W. Kimball Elementary School,Kimball,552418.5529,5269194.444
+155,Alternative,Hamlin Robinson School,HRS,552133.7973,5270770.257
+156,Alternative,Nova High School,Nova,552545.5342,5273008.185
+157,Elementary,Thurgood Marshall Elementary School,Thurgood Marshall,552639.7309,5271076.174
+158,High,Puget Sound Community School,Puget Sound Comm,550796.4599,5271653.535
+159,High,South Lake High School,South Lake,554883.3284,5263840.433
+160,Junior High/Middle,James Madison Middle School,James Madison,545856.2594,5269020.783
+161,Elementary,St George Parish School,St. George,551428.8147,5267165.25
+162,Junior High/Middle,Jane Addams Middle School,Jane Addams,553052.6308,5284295.488
+163,Elementary,Northgate Elementary School,Northgate,550302.944,5284823.884
+164,Alternative,TOPS K-8 School (The Option Program at Seward),TOPS,550760.7878,5276764.276
+165,Elementary,Our Lady of Guadalupe Catholic School,Our Lady of Guadalupe,546988.1847,5265238.797
+166,Junior High/Middle,Worth McClure Middle School,Worth McClure,548156.1327,5276135.413
+167,High,Nathan Hale High School,Nathan Hale,552906.2439,5284092.022
+168,Elementary,Laurelhurst Elementary School,Laurelhurst,554219.8911,5279008.591
+169,High,Bishop Blanchet High School,Blanchet,549867.294,5282028.041
+170,High,St. Christopher Academy,St. Christopher,546294.5885,5268141.526
+171,Elementary,Gatewood Elementary School,Gatewood,546019.0691,5265384.403
+172,Elementary,Loyal Heights Elementary School,Loyal Heights,545852.6029,5281625.019
+173,Junior High/Middle,Lake Washington Girls Middle School,LWGMS,551968.1842,5273139.498
+174,Elementary,Concordia Lutheran School,Concordia Lutheran,553356.0726,5281036.051
+175,Elementary,Epiphany School,Epiphany,553594.362,5274102.244
+176,Alternative,Hazel Wolf K-8 School,Hazel Wolf,551408.8993,5284680.307
+177,High,Ballard High School,Ballard,546879.3567,5280557.455
+178,High,The Northwest School,Northwest,550655.9549,5273551.933
+179,Elementary,Dearborn Park International Elementary School,Dearborn Park Intl,552946.3812,5266777.777
+180,High,James A. Garfield High School,Garfield,552476.6589,5272649.618
+181,Elementary,Viewlands Elementary School,Viewlands,547927.0928,5283818.875
+182,High,Seattle Lutheran High School,Seattle Lutheran,546294.597,5268141.222
+183,Other Facility,Stadium/Athletic Office,Stadium/Athletic Office,548848.2016,5274589.942
